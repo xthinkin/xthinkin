@@ -1,11 +1,22 @@
-# Windows 95 Theme for Jekyll
+## HCZ Material theme
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
 
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
+### Demo
+* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
 
-Demo: [Click here](https://h01000110.github.io/windows-95/)
+#### Feature
 
-Author: [h01000110 (hi)](https://github.com/h01000110)
+* Sitemap and XML Feed
+* Site Search 
+* Projects and tags
+* Paginations in homepage
+* Posts under category
+* Related Posts
+* Highlight pre
+* Next & Previous Post
+* Disqus comment
 
-License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
+#### Screenshot
+
+![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")

@@ -1,25 +1,28 @@
-permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+title: John Smith
+description: My Personal Blog
+author: John Smith
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
+about: Freelance developer
 
-# variables
-name: xthink.in
-description: Your description here
-google_verification: null
+baseurl: ""
+url: ""
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
 
 
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+enableTags: true
+tagarray: []
 
-# Sass
-sass:
-  style: :compressed
-  sass_dir: _sass
-
-# Markdown
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable : true
+gems: [jekyll-paginate, jekyll-gist]
