@@ -1,25 +1,41 @@
-permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+# Site settings
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
-# variables
-name: Your Site Name
-description: Your description here
-google_verification: null
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
+# Author
+author:
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
 
-# Sass
+# Assets
 sass:
-  style: :compressed
-  sass_dir: _sass
+  sass_dir:     _sass
+  style:        compressed
 
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable : true
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+disqus:         jekyll-tale
