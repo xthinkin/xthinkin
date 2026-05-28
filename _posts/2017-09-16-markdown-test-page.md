@@ -19,161 +19,105 @@ tags: tag1 tag3
 
 ***
 
-# <a name="Headings"></a>Headings
+ഖുര്‍ആനില്‍ മദ്യം ശരിക്കും ഹറാമാക്കിയിട്ടുണ്ടോ?
 
-# Heading one
+“ഇസ്ലാമില്‍ മദ്യം ഹറാമാണ്” — മുസ്ലിം സമൂഹത്തില്‍ ഏറ്റവും സാധാരണമായി കേള്‍ക്കുന്ന വാചകങ്ങളില്‍ ഒന്നാണ് ഇത്. പക്ഷേ ഒരു കൗതുകകരമായ ചോദ്യം ഇവിടെ ഉയരുന്നു:
 
-Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem. Ut laborum cillum laboris fugiat culpa sint irure do reprehenderit culpa occaecat. Exercitation esse mollit tempor magna aliqua in occaecat aliquip veniam reprehenderit nisi dolor in laboris dolore velit.
+ഖുര്‍ആന്‍ നേരിട്ട് മദ്യം ഹറാമാക്കിയിട്ടുണ്ടോ?
 
-## Heading two
+ഈ ചോദ്യം ചോദിക്കുമ്പോള്‍ പലരും ഉടന്‍ പ്രതികരിക്കാറുണ്ട്. കാരണം നൂറ്റാണ്ടുകളായി ഇസ്ലാമിക പണ്ഡിതര്‍ മദ്യം ഹറാമാണെന്ന് പഠിപ്പിച്ചുവരുന്നു. എന്നാല്‍ ഖുര്‍ആനിലെ വചനങ്ങള്‍ നേരിട്ട് വായിച്ചാല്‍ വിഷയം അത്ര ലളിതമല്ലെന്ന് ചിലര്‍ വാദിക്കുന്നു.
 
-Aute officia nulla deserunt do deserunt cillum velit magna. Officia veniam culpa anim minim dolore labore pariatur voluptate id ad est duis quis velit dolor pariatur enim. Incididunt enim excepteur do veniam consequat culpa do voluptate dolor fugiat ad adipisicing sit. Labore officia est adipisicing dolore proident eiusmod exercitation deserunt ullamco anim do occaecat velit. Elit dolor consectetur proident sunt aliquip est do tempor quis aliqua culpa aute. Duis in tempor exercitation pariatur et adipisicing mollit irure tempor ut enim esse commodo laboris proident. Do excepteur laborum anim esse aliquip eu sit id Lorem incididunt elit irure ea nulla dolor et. Nulla amet fugiat qui minim deserunt enim eu cupidatat aute officia do velit ea reprehenderit.
+മദ്യത്തെക്കുറിച്ച് ഖുര്‍ആന്‍ എന്താണ് പറയുന്നത്?
 
-### Heading three
+മദ്യത്തെക്കുറിച്ച് പ്രധാനമായും മൂന്ന് ഘട്ടങ്ങളിലായാണ് ഖുര്‍ആന്‍ സംസാരിക്കുന്നത്.
 
-Voluptate cupidatat cillum elit quis ipsum eu voluptate fugiat consectetur enim. Quis ut voluptate culpa ex anim aute consectetur dolore proident voluptate exercitation eiusmod. Esse in do anim magna minim culpa sint. Adipisicing ipsum consectetur proident ullamco magna sit amet aliqua aute fugiat laborum exercitation duis et.
+1. ദോഷം കൂടുതലാണെന്ന് പറയുന്നു
 
-#### Heading four
+സൂറത്ത് അല്‍ ബഖറ 2:219:
 
-Commodo fugiat aliqua minim quis pariatur mollit id tempor. Non occaecat minim esse enim aliqua adipisicing nostrud duis consequat eu adipisicing qui. Minim aliquip sit excepteur ipsum consequat laborum pariatur excepteur. Veniam fugiat et amet ad elit anim laborum duis mollit occaecat et et ipsum et reprehenderit. Occaecat aliquip dolore adipisicing sint labore occaecat officia fugiat. Quis adipisicing exercitation exercitation eu amet est laboris sunt nostrud ipsum reprehenderit ullamco. Enim sint ut consectetur id anim aute voluptate exercitation mollit dolore magna magna est Lorem. Ut adipisicing adipisicing aliqua ullamco voluptate labore nisi tempor esse magna incididunt.
+“അവര്‍ നിന്നോടു മദ്യത്തെയും ചൂതാട്ടത്തെയും കുറിച്ച് ചോദിക്കുന്നു. പറയുക: അവയില്‍ വലിയ പാപമുണ്ട്; മനുഷ്യര്‍ക്ക് ചില പ്രയോജനങ്ങളും ഉണ്ട്. പക്ഷേ അവയിലെ പാപം പ്രയോജനത്തെക്കാള്‍ വലുതാണ്.”
 
-##### Heading five
+ഇവിടെ ഖുര്‍ആന്‍ മദ്യത്തിന്റെ ദോഷം അംഗീകരിക്കുന്നു. പക്ഷേ “ഹറാം” എന്ന് പറയുന്നില്ല.
 
-Veniam enim esse amet veniam deserunt laboris amet enim consequat. Minim nostrud deserunt cillum consectetur commodo eu enim nostrud ullamco occaecat excepteur. Aliquip et ut est commodo enim dolor amet sint excepteur. Amet ad laboris laborum deserunt sint sunt aliqua commodo ex duis deserunt enim est ex labore ut. Duis incididunt velit adipisicing non incididunt adipisicing adipisicing. Ad irure duis nisi tempor eu dolor fugiat magna et consequat tempor eu ex dolore. Mollit esse nisi qui culpa ut nisi ex proident culpa cupidatat cillum culpa occaecat anim. Ut officia sit ea nisi ea excepteur nostrud ipsum et nulla.
+2. നമസ്‌കാരസമയത്ത് വിലക്ക്
 
-###### Heading six
+സൂറത്ത് അന്‍ നിസാ 4:43:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+“നിങ്ങള്‍ മദ്യലഹരിയിലായിരിക്കുമ്പോള്‍ നിങ്ങള്‍ പറയുന്നത് മനസ്സിലാകുന്നതുവരെ നമസ്‌കാരത്തിന് സമീപിക്കരുത്.”
 
+ഇവിടെയും പൂര്‍ണ നിരോധനം ഇല്ല. മറിച്ച് ലഹരിയിലായിരിക്കുമ്പോള്‍ നമസ്‌കാരത്തിന് വരരുത് എന്നാണ് പറയുന്നത്.
 
-[[Top]](#top)
+3. “വിട്ടൊഴിവിന്‍” എന്ന ആജ്ഞ
 
-# <a name="Paragraphs"></a>Paragraphs
+സൂറത്ത് അല്‍ മാഇദ 5:90:
 
-Incididunt ex adipisicing ea ullamco consectetur in voluptate proident fugiat tempor deserunt reprehenderit ullamco id dolore laborum. Do laboris laboris minim incididunt qui consectetur exercitation adipisicing dolore et magna consequat magna anim sunt. Officia fugiat Lorem sunt pariatur incididunt Lorem reprehenderit proident irure. Dolore ipsum aliqua mollit ad officia fugiat sit eu aliquip cupidatat ipsum duis laborum laborum fugiat esse. Voluptate anim ex dolore deserunt ea ex eiusmod irure. Occaecat excepteur aliqua exercitation aliquip dolor esse eu eu.
+“മദ്യം, ചൂതാട്ടം എന്നിവ ശൈതാന്റെ അശുദ്ധ പ്രവൃത്തികളില്‍ പെട്ടവയാണ്. അതിനാല്‍ നിങ്ങള്‍ അവ വിട്ടൊഴിവിന്‍.”
 
-Officia dolore laborum aute incididunt commodo nisi velit est est elit et dolore elit exercitation. Enim aliquip magna id ipsum aliquip consectetur ad nulla quis. Incididunt pariatur dolor consectetur cillum enim velit cupidatat laborum quis ex.
+ഇവിടെയാണ് വലിയ ചര്‍ച്ച തുടങ്ങുന്നത്.
 
-Officia irure in non voluptate adipisicing sit amet tempor duis dolore deserunt enim ut. Reprehenderit incididunt in ad anim et deserunt deserunt Lorem laborum quis. Enim aute anim labore proident laboris voluptate elit excepteur in. Ex labore nulla velit officia ullamco Lorem Lorem id do. Dolore ullamco ipsum magna dolor pariatur voluptate ipsum id occaecat ipsum. Dolore tempor quis duis commodo quis quis enim.
+“ഫജ്തനിബൂഹു” എന്ന പദം
 
-[[Top]](#top)
+ഈ വചനത്തില്‍ ഉപയോഗിച്ചിരിക്കുന്ന അറബി പദം:
 
-# <a name="Blockquotes"></a>Blockquotes
+“فَاجْتَنِبُوهُ” (ഫജ്തനിബൂഹു)
 
-Ad nisi laborum aute cupidatat magna deserunt eu id laboris id. Aliquip nulla cupidatat sint ex Lorem mollit laborum dolor amet est ut esse aute. Nostrud ex consequat id incididunt proident ipsum minim duis aliqua ut ex et ad quis. Laborum sint esse cillum anim nulla cillum consectetur aliqua sit. Nisi excepteur cillum labore amet excepteur commodo enim occaecat consequat ipsum proident exercitation duis id in.
+ഇതിന് “അകന്നു നില്‍ക്കുക”, “ഒഴിവാക്കുക”, “വിട്ടൊഴിയുക” എന്ന അര്‍ത്ഥങ്ങളാണ്.
 
-> Ipsum et cupidatat mollit exercitation enim duis sunt irure aliqua reprehenderit mollit. Pariatur Lorem pariatur laboris do culpa do elit irure. Eiusmod amet nulla voluptate velit culpa et aliqua ad reprehenderit sit ut.
+പരമ്പരാഗത സുന്നി-ശിയാ പണ്ഡിതര്‍ പറയുന്നത്:
 
-Labore ea magna Lorem consequat aliquip consectetur cillum duis dolore. Et veniam dolor qui incididunt minim amet laboris sit. Dolore ad esse commodo et dolore amet est velit ut nisi ea. Excepteur ea nulla commodo dolore anim dolore adipisicing eiusmod labore id enim esse quis mollit deserunt est. Minim ea culpa voluptate nostrud commodo proident in duis aliquip minim.
+ഇത് ശക്തമായ നിരോധനഭാഷയാണ്.
+അതിനാല്‍ മദ്യം പൂര്‍ണ ഹറാമാണ്.
 
-> Qui est sit et reprehenderit aute est esse enim aliqua id aliquip ea anim. Pariatur sint reprehenderit mollit velit voluptate enim consectetur sint enim. Quis exercitation proident elit non id qui culpa dolore esse aliquip consequat.
+പക്ഷേ മറ്റൊരു വിഭാഗം ചോദിക്കുന്നു:
 
-Ipsum excepteur cupidatat sunt minim ad eiusmod tempor sit.
+“ഒഴിവാക്കുക” എന്നത് “ഹറാം” എന്നതിന് തുല്യമാണോ?
 
-> Deserunt excepteur adipisicing culpa pariatur cillum laboris ullamco nisi fugiat cillum officia. In cupidatat nulla aliquip tempor ad Lorem Lorem quis voluptate officia consectetur pariatur ex in est duis. Mollit id esse est elit exercitation voluptate nostrud nisi laborum magna dolore dolore tempor in est consectetur.
+കാരണം ഖുര്‍ആനില്‍ ചില കാര്യങ്ങള്‍ക്ക് വളരെ വ്യക്തമായ നിയമഭാഷ ഉപയോഗിക്കുന്നുണ്ട്:
 
-Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat veniam ullamco occaecat do ut. Tempor et esse reprehenderit veniam proident ipsum irure sit ullamco et labore ea excepteur nulla labore ut. Ex aute minim quis tempor in eu id id irure ea nostrud dolor esse.
+“ഹുറ്രിമത് عليكم” — “നിങ്ങള്‍ക്ക് ഹറാമാക്കപ്പെട്ടു”
 
-[[Top]](#top)
+പന്നിയിറച്ചി, രക്തം തുടങ്ങിയ വിഷയങ്ങളില്‍ ഈ ഭാഷ വ്യക്തമായി കാണാം. പക്ഷേ മദ്യത്തിനായി അതേ ശൈലി ഉപയോഗിക്കുന്നില്ല.
 
-# <a name="Lists"></a>Lists
+അതുകൊണ്ട് ചിലര്‍ പറയുന്നത് എന്ത്?
 
-### Ordered List
+ഖുര്‍ആന്‍-മാത്രം സമീപനം സ്വീകരിക്കുന്ന ചിലര്‍ ഇങ്ങനെ വാദിക്കുന്നു:
 
-1. Longan
-2. Lychee
-3. Excepteur ad cupidatat do elit laborum amet cillum reprehenderit consequat quis.
-    Deserunt officia esse aliquip consectetur duis ut labore laborum commodo aliquip aliquip velit pariatur dolore.
-4. Marionberry
-5. Melon
-    - Cantaloupe
-    - Honeydew
-    - Watermelon
-6. Miracle fruit
-7. Mulberry
+ഖുര്‍ആന്‍ മദ്യത്തെ ശക്തമായി നിരുത്സാഹപ്പെടുത്തുന്നു.
+ലഹരി, നിയന്ത്രണം നഷ്ടപ്പെടല്‍, സാമൂഹിക ദോഷങ്ങള്‍ എന്നിവ വിമര്‍ശിക്കുന്നു.
+പക്ഷേ “മദ്യം പൂര്‍ണമായി ഹറാം” എന്ന് നിയമപരമായി വ്യക്തമാക്കുന്നില്ല.
 
-### Unordered List
+അവര്‍ പറയുന്നത്:
 
-- Olive
-- Orange
-    - Blood orange
-    - Clementine
-- Papaya
-- Ut aute ipsum occaecat nisi culpa Lorem id occaecat cupidatat id id magna laboris ad duis. Fugiat cillum dolore veniam nostrud proident sint consectetur eiusmod irure adipisicing.
-- Passionfruit
+പ്രശ്നം “ലഹരി” ആണ്.
+എല്ലാ സാഹചര്യത്തിലും ചെറിയ അളവിലെ ഉപയോഗം ഖുര്‍ആന്‍ നേരിട്ട് നിരോധിക്കുന്നില്ല.
+പക്ഷേ മുഖ്യധാരാ ഇസ്ലാം എന്ത് പറയുന്നു?
 
-[[Top]](#top)
+ചരിത്രപരമായി നോക്കിയാല്‍:
 
-# <a name="Horizontal"></a>Horizontal rule
+സുന്നി മദ്ഹബുകളും
+ശിയാ ജാഫരി ഫിഖും
+ഭൂരിഭാഗം മുസ്ലിം പണ്ഡിതരും
 
-In dolore velit aliquip labore mollit minim tempor veniam eu veniam ad in sint aliquip mollit mollit. Ex occaecat non deserunt elit laborum sunt tempor sint consequat culpa culpa qui sit. Irure ad commodo eu voluptate mollit cillum cupidatat veniam proident amet minim reprehenderit.
+മദ്യം ഹറാം തന്നെയാണെന്ന് പറയുന്നു.
 
-***
+അവരുടെ വാദം:
 
-In laboris eiusmod reprehenderit aliquip sit proident occaecat. Non sit labore anim elit veniam Lorem minim commodo eiusmod irure do minim nisi. Dolor amet cillum excepteur consequat sint non sint.
+“ഇജ്തനിബൂ” എന്ന പദം ഖുര്‍ആനില്‍ ഗുരുതര കാര്യങ്ങള്‍ക്കാണ് ഉപയോഗിക്കുന്നത്.
+വിഗ്രഹാരാധന പോലുള്ള കാര്യങ്ങള്‍ക്കും ഇതേ പദം ഉപയോഗിച്ചിട്ടുണ്ട്.
+അതിനാല്‍ ഇത് സാധാരണ ഉപദേശം അല്ല, വ്യക്തമായ വിലക്കാണ്.
+അവസാനമായി
 
-[[Top]](#top)
+ഈ ചര്‍ച്ചയുടെ മദ്ധ്യത്തില്‍ ഒരു പ്രധാന സത്യമുണ്ട്:
 
-# <a name="Table"></a>Table
+ഖുര്‍ആനിലെ വചനവും അതിന്റെ വ്യാഖ്യാനവും എല്ലായ്പ്പോഴും ഒരുപോലെയാകണമെന്നില്ല.
 
-Duis sunt ut pariatur reprehenderit mollit mollit magna dolore in pariatur nulla commodo sit dolor ad fugiat. Laboris amet ea occaecat duis eu enim exercitation deserunt ea laborum occaecat reprehenderit. Et incididunt dolor commodo consequat mollit nisi proident non pariatur in et incididunt id. Eu ut et Lorem ea ex magna minim ipsum ipsum do.
+ഒരു വിഭാഗം പറയുന്നു:
 
-| Table Heading 1 | Table Heading 2 | Center align    | Right align     | Table Heading 5 |
-| :-------------- | :-------------- | :-------------: | --------------: | :-------------- |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
+“മദ്യം ഹറാം” എന്ന് ഖുര്‍ആന്‍ വ്യക്തമായി പറഞ്ഞിട്ടില്ല.
 
-Minim id consequat adipisicing cupidatat laborum culpa veniam non consectetur et duis pariatur reprehenderit eu ex consectetur. Sunt nisi qui eiusmod ut cillum laborum Lorem officia aliquip laboris ullamco nostrud laboris non irure laboris. Cillum dolore labore Lorem deserunt mollit voluptate esse incididunt ex dolor.
+മറ്റൊരു വിഭാഗം പറയുന്നു:
 
-[[Top]](#top)
+“വിട്ടൊഴിവിന്‍” എന്ന ആജ്ഞ തന്നെ പൂര്‍ണ നിരോധനമാണ്.
 
-# <a name="Code"></a>Code
-
-## Inline code
-
-Ad amet irure est magna id mollit Lorem in do duis enim. Excepteur velit nisi magna ea pariatur pariatur ullamco fugiat deserunt sint non sint. Duis duis est `code in text` velit velit aute culpa ex quis pariatur pariatur laborum aute pariatur duis tempor sunt ad. Irure magna voluptate dolore consectetur consectetur irure esse. Anim magna `<strong>in culpa qui officia</strong>` dolor eiusmod esse amet aute cupidatat aliqua do id voluptate cupidatat reprehenderit amet labore deserunt.
-
-## Highlighted
-
-Et fugiat ad nisi amet magna labore do cillum fugiat occaecat cillum Lorem proident. In sint dolor ullamco ad do adipisicing amet id excepteur Lorem aliquip sit irure veniam laborum duis cillum. Aliqua occaecat minim cillum deserunt magna sunt laboris do do irure ea nostrud consequat ut voluptate ex.
-
-```go
-package main
-
-import (
-    "fmt"
-    "net/http"
-)
-
-func handler(w http.ResponseWriter, r *http.Request) {
-    fmt.Fprintf(w, "Hi there, I love %s!", r.URL.Path[1:])
-}
-
-func main() {
-    http.HandleFunc("/", handler)
-    http.ListenAndServe(":8080", nil)
-}
-```
-
-Ex amet id ex aliquip id do laborum excepteur exercitation elit sint commodo occaecat nostrud est. Nostrud pariatur esse veniam laborum non sint magna sit laboris minim in id. Aliqua pariatur pariatur excepteur adipisicing irure culpa consequat commodo et ex id ad.
-
-[[Top]](#top)
-
-# <a name="Inline"></a>Inline elements
-
-Sint ea anim ipsum ad commodo cupidatat do **exercitation** incididunt et minim ad labore sunt. Minim deserunt labore laboris velit nulla incididunt ipsum nulla. Ullamco ad laborum ea qui et anim in laboris exercitation tempor sit officia laborum reprehenderit culpa velit quis. **Consequat commodo** reprehenderit duis [irure](#!) esse esse exercitation minim enim Lorem dolore duis irure. Nisi Lorem reprehenderit ea amet excepteur dolor excepteur magna labore proident voluptate ipsum. Reprehenderit ex esse deserunt aliqua ea officia mollit Lorem nulla magna enim. Et ad ipsum labore enim ipsum **cupidatat consequat**. Commodo non ea cupidatat magna deserunt dolore ipsum velit nulla elit veniam nulla eiusmod proident officia.
-
-![Super wide](http://placekitten.com/1280/800)
-
-*Proident sit veniam in est proident officia adipisicing* ea tempor cillum non cillum velit deserunt. Voluptate laborum incididunt sit consectetur Lorem irure incididunt voluptate nostrud. Commodo ut eiusmod tempor cupidatat esse enim minim ex anim consequat. Mollit sint culpa qui laboris quis consectetur ad sint esse. Amet anim anim minim ullamco et duis non irure. Sit tempor adipisicing ea laboris `culpa ex duis sint` anim aute reprehenderit id eu ea. Aute [excepteur proident](#!) Lorem minim adipisicing nostrud mollit ad ut voluptate do nulla esse occaecat aliqua sint anim.
-
-![Not so big](http://placekitten.com/480/400)
-
-Incididunt in culpa cupidatat mollit cillum qui proident sit. In cillum aliquip incididunt voluptate magna amet cupidatat cillum pariatur sint aliqua est _enim **anim** voluptate_. Magna aliquip proident incididunt id duis pariatur eiusmod incididunt commodo culpa dolore sit. Culpa do nostrud elit ad exercitation anim pariatur non minim nisi **adipisicing sunt _officia_**. Do deserunt magna mollit Lorem commodo ipsum do cupidatat mollit enim ut elit veniam ea voluptate.
-
-[![Box](http://img.youtube.com/vi/qEuD6v1Y9fg/0.jpg)](http://www.youtube.com/watch?v=qEuD6v1Y9fg)
-
-Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.
+അതുകൊണ്ട് ഇത് വെറും “മദ്യം നല്ലതോ ചീത്തയോ” എന്ന ചര്‍ച്ചയല്ല.
+ഭാഷ, വ്യാഖ്യാനം, ഫിഖ്, ചരിത്രം എന്നിവയെല്ലാം തമ്മില്‍ ബന്ധപ്പെടുന്ന ഒരു വലിയ വിഷയമാണ്.
