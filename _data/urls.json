@@ -9,7 +9,10 @@
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments"
-  },
+  }
+  
+  /*
+  ,
   {
     "text": "Projects",
     "url": "/projects",
@@ -31,4 +34,6 @@
     "icon": "fa-feed",
     "target": _blank
   }
+
+  */
 ]
