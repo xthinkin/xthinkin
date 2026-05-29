@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Page
+title: ഖുര്‍ആനില്‍ മദ്യം ശരിക്കും ഹറാമാക്കിയിട്ടുണ്ടോ?
 date:   2015-06-04 13:50:39
 categories: others
 ---
