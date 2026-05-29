@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-About XThink
+
 
 Welcome to XThink.in — a space built for curious minds, rational thinkers, and people who dare to question everything.
 
